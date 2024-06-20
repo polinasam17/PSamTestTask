@@ -1,0 +1,22 @@
+.mainlabel {
+    color:rgb(100, 0, 75);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    display: block;
+}
+input {
+    display: block;
+
+}
+#button {
+    width: 180px;
+    height: 28px;
+    background-color: rgb(226, 193, 211);
+    color: rgb(104, 23, 77);
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url("https://gagaru.club/uploads/posts/2023-05/1683035482_gagaru-club-p-malenkie-milie-sobachki-pinterest-47.jpg");
+}
